@@ -1,0 +1,28 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    min-height: 100vh;
+}
+footer{
+    height: 60px;
+    background: #333;
+    padding: 20px;
+    color: aliceblue;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+.dev_by{
+    text-align: center;
+    font-size: 12px;
+}
+.page_not_found{
+    margin-top: 2rem;
+    color: red;
+    margin-bottom: 2rem;
+}
+.main-content{
+    margin-top: 5rem;
+}
+.main-content div{
+    margin: auto
+}
